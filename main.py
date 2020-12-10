@@ -36,7 +36,7 @@ if __name__ == '__main__':
                 json_devices = json.load(readFile)
     except FileNotFoundError:
                 json_devices = {}
-                print('''No valid "data/device.json" found. Please create one with the following format:
+                print('''No valid "data/devices.json" found. Please create one with the following format:
 {
     "00:00:00:00:00:00":
     {

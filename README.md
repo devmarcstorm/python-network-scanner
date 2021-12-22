@@ -66,7 +66,7 @@ Log: 2007-01-09 09:41:00.000002
 
 ***You will find a `<date>.log`in a `data` directory with all devices found this day***
 
-### Save known devices (your json example not working! I'm was created foler /data/devices.json and put  json text from down example but i'ts now working!!!)
+### Save known devices (your json example not working! I'm was created folder /data/devices.json and put  json text from down example but i'ts now working!!!)
 1. create json file: `data/devices.json`
 2. Use the following format:
 ```json
